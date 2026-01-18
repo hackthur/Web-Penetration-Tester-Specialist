@@ -19,6 +19,7 @@ http://help.htb:3000
 credentials found
 
 helpme@helpme.com:godhelpmeplz
+help:Welcome1
 
 in http://help.htb/support after login
 we can see the payload to check for the
