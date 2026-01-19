@@ -31,7 +31,7 @@
 - [ ] Giddy
 - [ ] GoodGames
 - [ ] Health
-- [ ] Help
+- [x] Help
 - [ ] Holiday
 - [ ] Intense
 - [ ] Intentions
