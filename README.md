@@ -29,7 +29,7 @@
 - [ ] Fightero
 - [ ] Freelancer
 - [ ] Giddy
-- [ ] GoodGames
+- [x] GoodGames
 - [ ] Health
 - [x] Help
 - [ ] Holiday
