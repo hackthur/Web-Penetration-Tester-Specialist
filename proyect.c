@@ -1,14 +1,3 @@
-/*
-  Proyecto FINAL: Uso de Sentencias de Control y Funciones
-  Control de entrega de regalos por familia (hasta 100 familias)
-
-  Compila en Windows:
-    - MSVC (Developer Command Prompt):
-        cl /W4 /EHsc proyecto_regalos.c
-    - MinGW:
-        gcc -Wall -Wextra -O2 -o proyecto_regalos.exe proyecto_regalos.c
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
