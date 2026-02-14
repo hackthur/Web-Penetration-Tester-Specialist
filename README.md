@@ -68,7 +68,7 @@
 - [ ] SwagShop
 - [ ] Ten
 - [ ] Toolbox
-- [ ] Trick
+- [x] Trick
 - [ ] Unattended
 - [ ] Unbalanced
 - [ ] Union
